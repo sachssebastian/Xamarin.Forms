@@ -304,7 +304,7 @@
       <Version>10.0.3</Version>
     </PackageReference>
     <PackageReference Include="Xam.Plugin.DeviceInfo">
-      <Version>3.0.2</Version>
+      <Version>4.1.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Build.Download">
       <Version>0.4.11</Version>
